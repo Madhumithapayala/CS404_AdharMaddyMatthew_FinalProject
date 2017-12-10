@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+
+<Scheme>
+	
+		<god>
+		
+			<attribute>name</attribute>
+			<attribute>partner</attribute>
+			<attribute>cycle</attribute>
+			<attribute>weapon</attribute>
+			<attribute>affiliation</attribute>    
+		
+		</god>
+		
+		<festivals>
+		
+			<attribute>festival_name</attribute>
+			<attribute>reason</attribute>
+			<attribute>occurs</attribute>
+			
+		</festivals>
+
+  <books>
+
+    <attribute>book_name</attribute>
+    <attribute>age</attribute>
+
+  </books> 
+
+
+	
+</Scheme>
+	
+	
